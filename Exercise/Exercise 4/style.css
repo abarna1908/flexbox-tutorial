@@ -1,0 +1,27 @@
+.container1{
+	/* Your code goes here */
+	height: 100vh;
+}
+#item1{
+	width:800px;
+}
+#item2{
+	width:400px;
+	height: 500px;
+	background-color: cornflowerblue;
+	color: #fff;
+	/* Your code goes here */
+	padding: 20px;
+}
+.container1-1{
+	/* Your code goes here */	
+}
+#item1 img{
+	width: 800px;
+	height: 400px;
+}
+#item2 img{
+	width: 100px;
+	height: 100px;
+	margin: 0 10px;
+}

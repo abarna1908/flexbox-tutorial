@@ -1,0 +1,26 @@
+.container1{
+	/* Your code goes here */
+}
+.item{
+	width:100px;
+	background-color: cornflowerblue;
+	margin: 10px;
+	font-size: 30px;
+	color: #fff;
+}
+#item2-1{	
+	height: 100px;
+	/* Your code goes here */
+}
+#item2-2{
+	height: 200px;
+	/* Your code goes here */
+}
+#item2-3{	
+	height: 300px;
+	/* Your code goes here */
+}
+#item2-4{	
+	height: 400px;
+	/* Your code goes here */
+}

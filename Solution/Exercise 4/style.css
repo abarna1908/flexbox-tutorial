@@ -1,0 +1,30 @@
+.container1{
+	display: flex;
+	justify-content: space-between;
+	height: 100vh;
+}
+#item1{
+	width:800px;
+}
+#item2{
+	width:400px;
+	height: 500px;
+	background-color: cornflowerblue;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding: 20px;
+}
+.container1-1{
+	display: flex;	
+}
+#item1 img{
+	width: 800px;
+	height: 400px;
+}
+#item2 img{
+	width: 100px;
+	height: 100px;
+	margin: 0 10px;
+}

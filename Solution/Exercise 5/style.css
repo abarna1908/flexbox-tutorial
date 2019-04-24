@@ -1,0 +1,28 @@
+.container1{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+.item{
+	width:100px;
+	background-color: cornflowerblue;
+	margin: 10px;
+	font-size: 30px;
+	color: #fff;
+}
+#item2-1{	
+	height: 100px;
+	order:1;
+}
+#item2-2{
+	height: 200px;
+	order:2;
+}
+#item2-3{	
+	height: 300px;
+	order:3;
+}
+#item2-4{	
+	height: 400px;
+	order:4;
+}

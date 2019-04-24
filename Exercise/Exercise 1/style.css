@@ -1,0 +1,35 @@
+.container1{
+	/* Your code goes here */
+	padding: 30px 230px;
+}
+.container1 img.child-comp{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+.container1 div.child-comp{
+	width: 800px;
+}
+.container2{
+	width: 1000px;
+	height: 100px;
+	padding: 30px 230px;
+	/* Your code goes here */
+}
+#comp1,#comp2{
+	width: 500px;
+	height: 200px;
+}
+#comp1{
+	background-color: darkmagenta;
+}
+#comp2-1,#comp2-2{
+	width: 250px;
+	height: 100px;
+}
+#comp2-1{
+	background-color: chocolate;
+}
+#comp2-2{
+	background-color: darkseagreen;
+}
